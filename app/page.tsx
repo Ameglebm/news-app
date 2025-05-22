@@ -182,7 +182,7 @@ export default function NewsPage() {
     </ul>
     
     <p className="text-center text-xs text-muted-foreground/70">
-      © 2023 Todos os direitos reservados
+      © 2025 Todos os direitos reservados
     </p>
   </div>
 </footer>
